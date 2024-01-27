@@ -1,5 +1,5 @@
-# hyeerinColorProj
-> 컬러제안사이트구성으로 협업하기 연습
+# hyeerinProj
+> 1. 컬러제안사이트구성으로 협업하기 연습
 
 ![](../header.png)
 
