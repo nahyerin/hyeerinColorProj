@@ -1,17 +1,14 @@
 # hyeerinProj
-> 1. 컬러제안사이트구성으로 협업하기 연습
-
-![](../header.png)
-
-
-## 사용 예제
-
-프로젝트 결과물 등록예정
-
 
 ## 정보
 
 나혜린 - with8675@gmail.com // github : https://github.com/nahyerin
+
+
+#### 👨‍👩‍👦‍👦 Team
+| Project | Adress |
+|---|---|
+ |*컬러제안사이트-협업하기 연습* &nbsp;| https://github.com/nahyerin/hyeerinProject/tree/main/colorProj |
 
 ## 기여 방법
 
